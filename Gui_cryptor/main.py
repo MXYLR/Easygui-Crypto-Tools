@@ -10,7 +10,7 @@ import railFense
 
 if __name__ == '__main__':
     while True:
-        msgbox('Welcome to the cryptor tool', 'Made by  MXYLR')
+        msgbox(msg='Welcome to the cryptor tool', title='Made by  MXYLR', image='cipher.png')
         choice = choicebox(msg='Pick up a item', choices=['Caesar', 'Vigenere','Hill', 'Rail Fense'], title='MXYLR Crypto tools')
 
         if choice == 'Caesar':
