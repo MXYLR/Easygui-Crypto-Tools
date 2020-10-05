@@ -10,6 +10,14 @@ I'm just the guy making them into easygui
 
 ## Requirements
 
+### Easyggui
+
+`pip3 install easygui`
+
+### Numpy
+
+`pip3 install numpy`
+
 ## Usage
 
 `python3 -u main.py`
