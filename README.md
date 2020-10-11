@@ -23,3 +23,5 @@ I'm just the guy making them into easygui
 `python3 -u main.py`
 
 ## Releases
+
+Packing the code would cause some bugs so I won't do it
